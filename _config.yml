@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: Página de prueba
+title: Mi primera página 
 
 # Your name to show in the footer
 author: Sara Arias
@@ -20,11 +20,11 @@ author: Sara Arias
 ###############################################
 
 navbar-links:
-  About Me: "Sobre mí"
-  Resources:
+  Sobre mi: "Sobre mí"
+  Recursos:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Autor: "https://deanattali.com"
 
 ################
 # --- Logo --- #

@@ -13,14 +13,14 @@
 title: Página de prueba
 
 # Your name to show in the footer
-author: Some Person
+author: Sara Arias
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  About Me: "Sobre mí"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"

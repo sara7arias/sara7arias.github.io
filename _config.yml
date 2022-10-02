@@ -20,7 +20,7 @@ author: Sara Arias
 ###############################################
 
 navbar-links:
-  Sobre mi: "Sobre mí"
+  Sobre mi: "aboutme"
   Recursos:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
